@@ -1,0 +1,78 @@
+#RRR {
+    color:rgb(255, 0, 0);
+    height: 30%;
+    font-size: 150%;
+    padding-top: 0%; 
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#img,#img2{
+    display: block;
+    padding-left: 10%;
+    
+    width:30%;
+    padding-top: 10%;
+    mix-blend-mode: multiply;
+    display: inline-block;
+    position: absolute;
+    
+    
+}
+#img2{
+ padding-left: 60%;
+}
+
+#botao{
+    border-radius: 10%;
+    border-color: aliceblue;
+    transform: rotatey('');
+    background-color: transparent;
+    
+    
+}
+#botao:hover{
+    transition-duration: 0.5s;
+    
+}
+
+#img3 {
+    display: block;
+    display: flex;
+    width: 30%;
+    padding-left: 10%;
+    padding-top: 55%;
+}
+#botao{ 
+    
+    text-decoration: none;
+    border: transparent;
+}
+#barca,#barca2{
+    display: block;
+    position: absolute;
+    padding-top: 40%;
+    padding-left: 5%;
+    text-align: center;
+}
+#barca2 {
+    padding-top: 48%;
+    padding-left: 20%;
+    text-decoration: none;
+}
+#Real,#Real2{
+    display: block;
+    position: absolute;
+    padding-left: 55%;
+    padding-top: 40%;
+    text-align: center;
+}
+#Real2{
+    padding-top: 48%;
+    padding-left: 70%;
+}
+u{
+    text-decoration: none;
+    
+}
